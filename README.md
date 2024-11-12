@@ -1,6 +1,8 @@
 # Instrumentation Heatmap
 
-This repository is used as support of the project and paper titled: "Instrumentation System for Monitoring of Soil Variables in Precision Agriculture Applications"
+This repository is used as support of the project and paper titled: "*Instrumentation System for Monitoring of Soil Variables in Precision Agriculture Applications*"
+
+This work was partially funded by the “*OMICAS program: Optimización Multiescala In-silico de Cultivos Agrícolas Sostenibles (Infraestructura y validación en Arroz y Caña de Azúcar)*” Scientific Ecosystem belonging to the Scientific Colombia Program, sponsored by The World Bank, The Ministry of Science, Technology and Innovation (MinCiencias), ICETEX (Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior), the Colombian Ministry of Education and the Colombian Ministry of Commerce, Industry and Tourism, under GRANT ID: FP44842-217-2018, Award ID: 792-61187.
 
 # Authors: 
 
@@ -22,6 +24,6 @@ This repository is used as support of the project and paper titled: "Instrumenta
 - The dataset used in the paper.
 - The code used to process data and to create heatmaps using different interpolation methods.
 
-  #Last update:
+# Last update:
 
-  Date: 12/11/2024
+Date: 12/11/2024
