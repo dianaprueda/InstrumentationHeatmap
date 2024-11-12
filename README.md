@@ -20,4 +20,8 @@ This repository is used as support of the project and paper titled: "Instrumenta
 
 - The code used in the pre-processing stage
 - The dataset used in the paper.
-- The code used to process data and to create heatmaps using different interpolation methods. 
+- The code used to process data and to create heatmaps using different interpolation methods.
+
+  #Last update:
+
+  Date: 12/11/2024
